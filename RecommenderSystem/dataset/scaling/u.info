@@ -1,0 +1,9 @@
+scale size: 13
+user count: 10000
+item coumt: 5000
+hot item count: 50
+avg items rated: 20
+avg hot items rated: 10
+at least items rated: 0
+rating factory: uniform
+user factory: UserInverseOffsetScaled-0.2-0.01
